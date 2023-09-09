@@ -7,7 +7,7 @@ body {
 }
 
 #kotak {
-    width: 700px;
+    width: 680px;
     height: 280px;
     background-color: rgb(228, 225, 225);
     display: flex;
@@ -21,11 +21,10 @@ body {
 }
 
 #kotak img {
-    width: 60%;
+    width: 17%;
     position: absolute; /* Menetapkan posisi absolut pada gambar */ /* Pusatkan vertikal gambar ke tengah #kotak */
-    right: 0; /* Geser gambar ke ujung kanan #kotak */
-    padding-bottom: 35px;
-    padding-right: 80px;
+    right: 0;
+    padding-right: 320px;
 }
 
 p1 {
@@ -35,7 +34,7 @@ p1 {
 p1, p2, p3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 14px;
-    margin: 3px;
+    margin: 3px; 
 }
 
 h1, h2, h3 {
